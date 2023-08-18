@@ -1,16 +1,26 @@
-### Hi there 👋
+### Howdy! 
 
-<!--
-**alexanderdrummond/alexanderdrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/UX Designer and a Graphic Designer currently working on becoming a seasoned frontend developer, I'm currently learning Vue.js!
 
-Here are some ideas to get you started:
+### Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks:
+- Everything Vanilla - Advanced
+- React - Advanced
+- Next.js - Advanced
+- Vue.js - Beginner
+- Nuxt.js - Beginner
+
+UI/Style Libraries:
+- SCSS + CSS - Advanced
+- Chakra UI (React + Vue) - Advanced
+- Material Design (React) - Advanced
+- Ionic (React + Vue) - Intermediate
+
+DBaaS:
+- Supabase - Intermediate
+- Firebase - Intermediate
+
+### Info
+
+Please feel free to drop me a line on alex@alexdrum.com for personal projects or alex@madebyavant.com for agency projects! I'm open to collaborating on projects that have serious substance, also open to any and all positions that can help improve my routine in Vue.js.

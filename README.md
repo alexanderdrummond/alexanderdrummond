@@ -1,6 +1,6 @@
 ### Howdy! 
 
-I'm a UI/UX Designer and a Graphic Designer currently working on becoming a seasoned frontend developer, I'm currently learning Vue.js!
+I'm a UI/UX Designer and a Jr Graphic Designer currently working on becoming a seasoned frontend developer, I'm currently learning Vue.js!
 
 ### Stack:
 

@@ -1,6 +1,5 @@
 ### Howdy! 🤠
 
-I'm a UI/UX and Graphic Designer currently working on becoming a seasoned frontend developer.
 
 ### Stack
 

@@ -1,3 +1,3 @@
-Frontend Developer, former UX/UI Lead & Creative Director.
+Software Developer @ Barma, former UX/UI Lead & Product Designer
 
 alex@alexdrum.com
